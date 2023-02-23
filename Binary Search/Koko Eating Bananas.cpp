@@ -1,3 +1,4 @@
+class Solution {
 private:
     bool timeTakesToEat(int mid,int h,vector<int> piles)
     {
@@ -41,3 +42,4 @@ public:
      
        return ans;
     }
+};
